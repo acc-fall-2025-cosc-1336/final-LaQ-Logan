@@ -42,7 +42,7 @@ def dna_consensus_finder(): # main function to find DNA consensus
                 print("Goodbye!")  # exit program naturally
                 return  # returning here ends the program if called from handle_choice
             else:
-                print("Invalid input. Please enter 'y' or 'n'.")
+                print("Invalid input. Please enter 'y' or 'n'.") # prompt for valid input
     
 
 
